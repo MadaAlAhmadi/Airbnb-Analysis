@@ -13,7 +13,8 @@ For this porject, I analyze the Airbnb Data to "Write a Data Science Blog Post p
 I mainly focus on the price, rating, and the busiest time to answer specific questions
 
 ## Files
-
+- Seattle_Airbnb_Analysis(DSND).ipynb : The code notebook Airbnb Seattle Data
+- Seattle_Airbnb_Analysis(DSND).html : onnline version of the code notebook for Airbnb Seattle Data
 
 ## Summary 
 
