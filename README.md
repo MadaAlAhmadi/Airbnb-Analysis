@@ -22,3 +22,7 @@ I mainly focus on the price, rating, and the busiest time to answer specific que
 - People tend to give a more high rating
 - Summertime is busiest
 - The highest price during Summertime
+
+## The blog post on Medium 
+
+https://medium.com/@madaalahmadi96/what-seattle-airbnb-data-says-b63e2c6fd0b4 
