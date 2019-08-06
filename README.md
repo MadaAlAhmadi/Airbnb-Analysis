@@ -1,5 +1,6 @@
 # Airbnb Seattle Analysis
 Udacity DSND Write a Data Science Blog Post project
+
 https://medium.com/@madaalahmadi96/what-seattle-airbnb-data-says-b63e2c6fd0b4
 
 ## Libraries used
